@@ -1,1 +1,1 @@
-# Comment-Counter
+This was a program to use to count certain type of words were within a comment and also to count the number of occurence a word pops up. From there, I turned it into a Panda's format and I can see how many words is used per day.
